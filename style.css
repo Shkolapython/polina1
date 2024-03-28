@@ -19,8 +19,8 @@ display: flex;
 }
 
     .Wow{
-        width: 50px;
-        height: 50px;
+    display:flex;
+        justifi-content: center;
     }
 .V1{
     width: 500px;
